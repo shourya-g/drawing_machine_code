@@ -36,7 +36,7 @@ def divide(filename, dir_in, dir_out, d):
 
 # Put the image in text file
 def create(dir):
-    # Take the image as img_i_j
+    # Take the image as img_j_i
     for i in range(0, 100):
         i = i*5
         for j in range(0, 100):
